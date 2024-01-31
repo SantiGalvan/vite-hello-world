@@ -9,7 +9,7 @@ export default {
 
 <template>
     <header>
-        <img src="" alt="">
+        <img :src="`../../${image}`" alt="">
     </header>
 </template>
 
