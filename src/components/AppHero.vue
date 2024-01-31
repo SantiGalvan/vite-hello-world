@@ -14,4 +14,8 @@ export default {
 </template>
 
 
-<style></style>
+<style>
+img {
+    width: 500px;
+}
+</style>
