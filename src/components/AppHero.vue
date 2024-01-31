@@ -1,10 +1,17 @@
 <script>
 export default {
     name: 'AppHero',
+    data: () => ({
+        image: '01.jpg'
+    })
 };
 </script>
 
-<template></template>
+<template>
+    <header>
+        <img src="" alt="">
+    </header>
+</template>
 
 
 <style></style>
